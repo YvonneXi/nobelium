@@ -1,8 +1,8 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  description: 'This gonna be an awesome website.',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
+  title: 'Xy',
+  description: 'A floating jellyfish.',
+  author: 'Xy',
+  email: 'apple-xiy@hotmail.com',
   link: 'https://craigary.net',
   lang: 'en-US',
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
